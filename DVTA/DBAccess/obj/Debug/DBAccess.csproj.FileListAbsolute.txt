@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\dvta\DVTA\DBAccess\bin\Debug\DBAccess.dll
+C:\Users\User\Source\Repos\dvta\DVTA\DBAccess\bin\Debug\DBAccess.pdb
+C:\Users\User\Source\Repos\dvta\DVTA\DBAccess\obj\Debug\DBAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\dvta\DVTA\DBAccess\obj\Debug\DBAccess.dll
+C:\Users\User\Source\Repos\dvta\DVTA\DBAccess\obj\Debug\DBAccess.pdb
