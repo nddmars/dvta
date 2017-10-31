@@ -77,6 +77,7 @@
             // 
             // btnlogin
             // 
+            this.btnlogin.Enabled = false;
             this.btnlogin.Location = new System.Drawing.Point(225, 206);
             this.btnlogin.Name = "btnlogin";
             this.btnlogin.Size = new System.Drawing.Size(75, 23);
